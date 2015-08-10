@@ -1,0 +1,25 @@
+{
+  "name": "expresstute",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "start":"app.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishwarsfarm/nodejstutes.git"
+  },
+  "author": "ishwar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishwarsfarm/nodejstutes/issues"
+  },
+  "homepage": "https://github.com/ishwarsfarm/nodejstutes#readme"
+}
